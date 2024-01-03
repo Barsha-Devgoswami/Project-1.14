@@ -1,0 +1,7 @@
+D:\Project 1.14\Retrieve_data\Retrieve_data\bin\Debug\Retrieve_data.exe.config
+D:\Project 1.14\Retrieve_data\Retrieve_data\bin\Debug\Retrieve_data.exe
+D:\Project 1.14\Retrieve_data\Retrieve_data\bin\Debug\Retrieve_data.pdb
+D:\Project 1.14\Retrieve_data\Retrieve_data\obj\Debug\Retrieve_data.csproj.AssemblyReference.cache
+D:\Project 1.14\Retrieve_data\Retrieve_data\obj\Debug\Retrieve_data.csproj.CoreCompileInputs.cache
+D:\Project 1.14\Retrieve_data\Retrieve_data\obj\Debug\Retrieve_data.exe
+D:\Project 1.14\Retrieve_data\Retrieve_data\obj\Debug\Retrieve_data.pdb
